@@ -1,7 +1,4 @@
 import serial
-import web
-import json
-import time
 import sys
 
 
