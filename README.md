@@ -61,3 +61,11 @@ So, to change the bottom right drawer lights to red, you would type:
  ```
  
  
+## Having trouble?
+If the files do not run when you click on them, you will want to try opening a terminal window, and typing:
+
+```bash
+sudo chmod 777 /dev/ttyUSB0
+```
+
+The password to use is `utoqa`
